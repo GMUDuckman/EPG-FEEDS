@@ -1,0 +1,25 @@
+<tv>
+  <channel id="99.1TheBuck.us">
+    <display-name>99.1 The Buck</display-name>
+  </channel>
+
+  <!-- Thursday Weekly -->
+  <programme start="20261008T110000 -0500" stop="20261008T140000 -0500" channel="99.1TheBuck.us">
+    <title>Rob Kotwicki Texas Country Mix</title>
+    <desc>Rob Kotwicki live from Rockbox Theater playing three hours of Texas Country favorites and new regional releases.</desc>
+    <category>Music</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <previously-shown/>
+    <rrule>FREQ=WEEKLY;BYDAY=TH</rrule>
+  </programme>
+
+  <!-- Friday Weekly -->
+  <programme start="20261009T110000 -0500" stop="20261009T140000 -0500" channel="99.1TheBuck.us">
+    <title>Rob Kotwicki Texas Country Mix</title>
+    <desc>Rob Kotwicki live from Rockbox Theater playing three hours of Texas Country favorites and new regional releases.</desc>
+    <category>Music</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <previously-shown/>
+    <rrule>FREQ=WEEKLY;BYDAY=FR</rrule>
+  </programme>
+</tv>
